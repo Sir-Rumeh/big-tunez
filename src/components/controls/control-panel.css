@@ -1,0 +1,21 @@
+.control-panel {
+	align-items: center;
+}
+
+.timer {
+	font-size: 15px;
+	font-weight: 50;
+	color: white;
+	transform: translateX(-20%);
+}
+
+@media (max-width: 952px) {
+	.timer {
+		font-size: 11px;
+		color: white;
+		transform: translateX(-95%);
+		width: 60px;
+		display: flex;
+		align-items: center;
+	}
+}
