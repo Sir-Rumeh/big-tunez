@@ -1,3 +1,7 @@
+A react music and entertainment blog
+
+[![big-tunez netlify app_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/95687544/163951014-3bfe5c29-046d-4286-babd-2d1a021be7d0.png)](https://big-tunez.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
