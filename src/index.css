@@ -37,8 +37,8 @@ code {
 	position: fixed;
 	top: 0px;
 	left: 0px;
-	background-color: aliceblue;
-	color: black;
+	background-color: rgba(0, 0, 0, 0.95);
+	color: white;
 	width: 100%;
 	height: 100%;
 	z-index: 111;
@@ -46,11 +46,31 @@ code {
 	font-size: 2rem;
 	display: none;
 }
+.meet-the-team .team-mates > p {
+	margin-bottom: 2rem;
+}
+
 .show-team {
 	display: flex;
 	align-items: flex-start;
 	justify-content: space-between;
 	padding: 2rem 4rem;
+}
+
+.tooltip .tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	display: flex;
+	text-align: flex-start;
+	padding: 5px 0;
+
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+}
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+	opacity: 70%;
 }
 
 /* .navbar {
