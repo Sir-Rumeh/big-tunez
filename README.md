@@ -1,5 +1,7 @@
 A react music and entertainment blog
 
+[Live Site](https://big-tunez.netlify.app/)
+
 [![big-tunez netlify app_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/95687544/163951014-3bfe5c29-046d-4286-babd-2d1a021be7d0.png)](https://big-tunez.netlify.app/)
 
 # Getting Started with Create React App
